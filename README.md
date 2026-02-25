@@ -1,4 +1,4 @@
-# Instagram UI Redesign
+# Instagram-UI-Redesign
 
 This project is a redesign of Instagram mobile application created using Figma.
 
